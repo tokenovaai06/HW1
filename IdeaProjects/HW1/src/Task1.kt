@@ -1,4 +1,3 @@
-
 fun main() {
     println("Use the val keyword when the value doesn't change.")
     println("Use the var keyword when the value can change.")
